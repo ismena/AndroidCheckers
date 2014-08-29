@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Checkers</string>
+    <string name="ok">OK</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_game">New Game</string>
+    <string name="exit">Exit</string>
+    <string name="white_won">Game over. White won!</string>
+    <string name="black_won">Game over. Black won!</string>
+    <string name="level_easy">Easy</string>
+    <string name="level_medium">Medium</string>
+    <string name="level_hard">Hard</string>
+
+</resources>
